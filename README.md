@@ -1,7 +1,3 @@
-Here's the updated README description with the specific details about the data visualization portion:
-
----
-
 # New York City Housing Market Analysis
 
 ## Overview
@@ -46,7 +42,3 @@ To effectively communicate the insights gained from the analysis, a comprehensiv
 ## Conclusion
 
 The analysis of the New York City housing market provided valuable insights into the roles of brokers, property distributions, and the economic landscape of housing across different boroughs. The Tableau dashboard offers a clear and interactive way to visualize these findings, making it easier to understand and communicate the trends identified in the data.
-
----
-
-Feel free to adjust any section to better fit your specific project details or to add more information as needed.
